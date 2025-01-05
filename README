@@ -1,6 +1,6 @@
-Student Management System
+Student Record System
 --Overview--
-The Student Management System is a JavaFX application designed for managing student data, courses, and grades. It provides features for administrators to log in, view student information, manage courses, and update student grades.
+The Student Record System is a JavaFX application designed for managing student data, courses, and grades. It provides features for administrators to log in, view student information, manage courses, and update student grades.
 
 --Table of Contents--
 *Features
@@ -34,7 +34,7 @@ Import the SQL scripts from the database-scripts folder to set up the necessary 
 3.Navigate through the different sections to manage students, courses, and grades.
 
 --Project Structure--
--com.example.studentmanagements:
+-com.example.studentrecordsystem:
     HelloApplication: Main class to launch the application.
     HelloController: Controller class for the main view.
     DatabaseConnection: Handles database connectivity.
